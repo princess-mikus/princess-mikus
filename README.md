@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I'm Mica and this is my github</h2>
 
-<div>
+<div align="center">
 <img style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=princess-mikus&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged"></img>
 <img style="height: auto; width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princess-mikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake"></img>
 </div>
