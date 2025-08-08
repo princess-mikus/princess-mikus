@@ -10,12 +10,10 @@
   <a href="https://github.com/princess-mikus/42-Minishell"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats.vercel.app/api/pin/?username=princess-mikus&repo=42-Minishell&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
   <a href="https://github.com/princess-mikus/42-CPP"><img style="height: auto; width: 39%;" class="right-image" src="https://github-readme-stats.vercel.app/api/pin/?username=princess-mikus&repo=42-CPP&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
 </div>  
-<p></p>
 <div>
   <a href="https://github.com/princess-mikus/42-cub3d"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats.vercel.app/api/pin/?username=princess-mikus&repo=42-cub3d&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
   <a href="https://github.com/princess-mikus/42-Inception"><img style="height: auto; width: 39%;" class="right-image" src="https://github-readme-stats.vercel.app/api/pin/?username=princess-mikus&repo=42-Inception&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
 </div>
-<p></p>
 <div>
 <a href="https://github.com/princess-mikus/42-Libft"><img style="height: auto; width: 39%;" class="left-image" src="https://github-readme-stats.vercel.app/api/pin/?username=princess-mikus&repo=42-Libft&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
 </div>
